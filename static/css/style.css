@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.form {
+    display: flex;
+    justify-content: center;
+    font-size: 80px;
+}
+
+.span_text {
+    display: flex;
+    justify-content: center;
+    font-size: 60px;
+}
